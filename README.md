@@ -1,7 +1,6 @@
 # 💧 Water Extractor from Air
 
-> **A hardware prototype that extracts clean water from atmospheric humidity using Peltier modules.**  
-> 🎓 **Course Project** &nbsp;|&nbsp; **University:** STMU — Shifa Tameer-e-Millat University  
+> **A hardware prototype that extracts clean water from atmospheric humidity using Peltier modules.**   
 > 🏆 **Awarded:** Sustainability Innovation Award — STMU 2024
 
 <br>
